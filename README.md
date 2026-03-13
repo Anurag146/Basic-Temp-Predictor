@@ -33,4 +33,4 @@ An $R^2$ of 0.26 indicates that while humidity is a significant predictor of tem
    pip install -r requirements.txt
 
 ## NOTE: 
-I have also worked on an (Advanced project)[https://github.com/Anurag146/Advanced-Weather-Temperature-Prediction.git] which shows the improvement in the MSE & R2 score
+I have also worked on an [Advanced project](https://github.com/Anurag146/Advanced-Weather-Temperature-Prediction.git) which shows the improvement in the MSE & R2 score
